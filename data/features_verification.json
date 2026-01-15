@@ -1,0 +1,28 @@
+{
+  "n_quotes": 1374,
+  "n_features": 506,
+  "data_type": "float64",
+  "statistics": {
+    "min": -0.15640297532081604,
+    "max": 1.0,
+    "mean": 0.01311361363441677,
+    "std": 0.10040531778756026
+  },
+  "data_quality": {
+    "nan_values": 0,
+    "inf_values": 0,
+    "zero_percentage": 21.560344282007467
+  },
+  "dimension_breakdown": {
+    "sbert_dims": 384,
+    "sbert_weighted": 230,
+    "topics_dims": 80,
+    "purposes_dims": 30,
+    "context_dims": 12,
+    "total_calculated": 352
+  },
+  "file_info": {
+    "size_bytes": 5562080,
+    "size_mb": 5.304412841796875
+  }
+}
